@@ -1,0 +1,9 @@
+# SGH-I537_NA_LL_Opensource
+
+MODEL:  SGH-I537
+
+VERSION:  I537UCUCOC6
+
+DESCRIPTION:  SGH-I537_NA_LL_Opensource.zip 
+
+NO LONGER AVAILABLE AT opensource.samsung.com
